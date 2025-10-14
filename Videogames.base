@@ -23,7 +23,7 @@ views:
       - property: started_date
         direction: DESC
     columnSize:
-      file.name: 236
+      file.name: 422
       note.rating: 137
       note.series: 206
   - type: cards
