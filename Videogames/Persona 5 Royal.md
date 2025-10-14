@@ -11,4 +11,5 @@ genre:
   - RPG
 img:
 finished_date:
+status: ⏸️ Suspended
 ---

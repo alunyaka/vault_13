@@ -11,4 +11,5 @@ genre:
   - Metroidvania
 img:
 finished_date:
+status: ⏹️ Backlog
 ---

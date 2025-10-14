@@ -1,15 +1,14 @@
 ---
-is_finished:
+status: ✅ Finished
 platforms:
   - Nintendo Switch
 rating: ⭐⭐⭐⭐⭐
 series:
-  - Zelda
+  - Ace Attorney
 started_date:
 genre:
-  - Action
-  - Adventure
+  - Puzzle
+  - Visual Novel
 img:
 finished_date:
-status: ⏸️ Suspended
 ---

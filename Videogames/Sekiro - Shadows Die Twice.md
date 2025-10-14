@@ -11,4 +11,5 @@ genre:
   - Action
 img:
 finished_date:
+status: ⏹️ Backlog
 ---

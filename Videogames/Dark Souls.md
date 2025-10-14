@@ -14,5 +14,6 @@ genre:
   - Metroidvania
 img: "[[330px-Dark_Souls_Cover_Art.jpeg]]"
 finished_date:
+status: ✅ Finished
 ---
 ![[330px-Dark_Souls_Cover_Art.jpeg]]

@@ -1,15 +1,16 @@
 ---
-is_finished:
+is_finished: true
 platforms:
-  - NES
+  - Nintendo Switch
 rating:
 series:
-  - Zelda
+  - Metroid
 started_date:
 genre:
   - Action
   - Adventure
+  - Metroidvania
 img:
 finished_date:
-status: ⏹️ Backlog
+status: ✅ Finished
 ---

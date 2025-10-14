@@ -1,14 +1,15 @@
 ---
 is_finished:
 platforms:
+  - Wii
 rating:
 series:
-  - Persona
-  - Shin Megami Tensei
+  - Metroid
 started_date:
 genre:
-  - JRPG
-  - RPG
+  - Action
+  - Adventure
+  - Metroidvania
 img:
 finished_date:
 status: ⏹️ Backlog

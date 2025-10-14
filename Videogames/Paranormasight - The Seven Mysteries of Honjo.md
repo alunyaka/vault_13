@@ -1,15 +1,13 @@
 ---
-is_finished: true
+status: ✅ Finished
 platforms:
   - Steam
-rating: ⭐⭐⭐⭐⭐
+rating: ⭐⭐⭐⭐
 series:
 started_date:
 genre:
-  - Horror
   - Puzzle
-  - Walking
+  - Visual Novel
 img:
 finished_date:
-status: ✅ Finished
 ---

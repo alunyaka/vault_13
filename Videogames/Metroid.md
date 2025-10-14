@@ -1,14 +1,16 @@
 ---
 is_finished:
 platforms:
+  - NES
 rating:
 series:
-  - Persona
-  - Shin Megami Tensei
+  - Metroid
 started_date:
 genre:
-  - JRPG
-  - RPG
+  - Metroidvania
+  - Action
+  - Adventure
+  - Platforming
 img:
 finished_date:
 status: ⏹️ Backlog

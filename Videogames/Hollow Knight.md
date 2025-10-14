@@ -13,5 +13,6 @@ genre:
   - Metroidvania
 img: "[[274px-Hollow_Knight.jpg]]"
 finished_date:
+status: ⏸️ Suspended
 ---
 ![[274px-Hollow_Knight.jpg]]

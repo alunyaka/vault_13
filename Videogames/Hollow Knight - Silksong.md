@@ -16,6 +16,7 @@ rating: ⭐⭐⭐⭐⭐
 started_date: 2025-09-04
 finished_date:
 img: "[[images.jpg]]"
+status: ▶️ Playing
 ---
 ![[images.jpg]]
 

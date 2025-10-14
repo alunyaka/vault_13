@@ -11,7 +11,7 @@ views:
         - file.folder == "Videogames"
     order:
       - file.name
-      - is_finished
+      - status
       - platforms
       - rating
       - series
@@ -23,7 +23,8 @@ views:
       - property: started_date
         direction: DESC
     columnSize:
-      file.name: 422
+      file.name: 363
+      note.status: 94
       note.rating: 137
       note.series: 206
   - type: cards

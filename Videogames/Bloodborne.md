@@ -12,5 +12,6 @@ genre:
   - Metroidvania
 img: "[[Обложка_Bloodborne.jpg]]"
 finished_date:
+status: ✅ Finished
 ---
 ![[Обложка_Bloodborne.jpg]]

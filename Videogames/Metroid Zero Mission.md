@@ -1,15 +1,17 @@
 ---
-is_finished:
+is_finished: true
 platforms:
-  - Nintendo Switch
+  - GBA
 rating: ⭐⭐⭐⭐⭐
 series:
-  - Zelda
+  - Metroid
 started_date:
 genre:
   - Action
   - Adventure
+  - Metroidvania
+  - Platforming
 img:
 finished_date:
-status: ⏸️ Suspended
+status: ✅ Finished
 ---

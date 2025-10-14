@@ -11,4 +11,5 @@ genre:
   - Adventure
 img:
 finished_date:
+status: ⏸️ Suspended
 ---

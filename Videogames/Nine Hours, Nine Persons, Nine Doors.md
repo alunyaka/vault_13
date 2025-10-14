@@ -1,15 +1,14 @@
 ---
-is_finished: true
+status: ✅ Finished
 platforms:
   - Steam
 rating: ⭐⭐⭐⭐⭐
 series:
+  - Zero Escape
 started_date:
 genre:
-  - Horror
   - Puzzle
-  - Walking
+  - Visual Novel
 img:
 finished_date:
-status: ✅ Finished
 ---

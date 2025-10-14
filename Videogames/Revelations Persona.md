@@ -11,4 +11,5 @@ genre:
   - JRPG
 img:
 finished_date:
+status: ⏹️ Backlog
 ---

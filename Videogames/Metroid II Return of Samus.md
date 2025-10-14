@@ -1,14 +1,16 @@
 ---
 is_finished:
 platforms:
+  - GB
 rating:
 series:
-  - Persona
-  - Shin Megami Tensei
+  - Metroid
 started_date:
 genre:
-  - JRPG
-  - RPG
+  - Action
+  - Adventure
+  - Metroidvania
+  - Platforming
 img:
 finished_date:
 status: ⏹️ Backlog
