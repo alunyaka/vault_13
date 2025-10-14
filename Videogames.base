@@ -1,0 +1,37 @@
+properties:
+  note.is_finished:
+    displayName: Finished
+  note.rating:
+    displayName: Rating
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - file.folder == "Videogames"
+    order:
+      - file.name
+      - is_finished
+      - platforms
+      - rating
+      - series
+      - started_date
+      - genre
+      - img
+      - finished_date
+    sort:
+      - property: started_date
+        direction: DESC
+    columnSize:
+      note.rating: 137
+      note.series: 206
+  - type: cards
+    name: View
+    filters:
+      and:
+        - file.folder == "Videogames"
+    order:
+      - file.name
+      - rating
+      - is_finished
+    image: note.img
