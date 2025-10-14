@@ -1,5 +1,5 @@
 ---
-is_finished:
+is_finished: true
 platforms:
   - PlayStation 3
   - Steam
