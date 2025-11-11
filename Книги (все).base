@@ -1,0 +1,41 @@
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - file.folder == "Books"
+    order:
+      - file.name
+      - title
+      - authors
+      - finished_date
+      - genre
+      - isbn
+      - rating
+      - status
+      - tags
+      - year
+      - topics
+      - via
+      - cover
+    columnSize:
+      note.title: 258
+      note.isbn: 200
+      note.rating: 134
+      note.status: 116
+      note.tags: 109
+      note.year: 96
+      note.topics: 172
+      note.via: 52
+  - type: cards
+    name: View
+    filters:
+      and:
+        - file.folder == "Books"
+    order:
+      - title
+      - authors
+    image: note.cover
+    imageFit: ""
+    cardSize: 300
+    imageAspectRatio: 1.5
