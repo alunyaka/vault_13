@@ -2,7 +2,7 @@
 authors:
   - "[[Юваль Ной Харари]]"
 finished_date:
-status: ✅ Finished
+status: Прочитал
 rating: 👍
 genre:
   - Научпоп
