@@ -19,6 +19,8 @@ views:
       - via
       - cover
     sort:
+      - property: file.name
+        direction: ASC
       - property: authors
         direction: ASC
     columnSize:
