@@ -18,15 +18,20 @@ views:
       - topics
       - via
       - cover
+    sort:
+      - property: authors
+        direction: ASC
     columnSize:
       note.title: 258
+      note.authors: 151
+      note.genre: 198
       note.isbn: 200
       note.rating: 134
       note.status: 116
       note.tags: 109
       note.year: 96
       note.topics: 172
-      note.via: 52
+      note.via: 142
   - type: cards
     name: View
     filters:
